@@ -1,0 +1,10 @@
+[FORMAT]
+max-line-length = 120
+indent-string = spaces
+indent-after-paren = 4
+indentation = space
+blank-line-after-class-docstring = 2
+blank-line-after-function-docstring = 2
+
+[MESSAGES CONTROL]
+disable = missing-docstring
